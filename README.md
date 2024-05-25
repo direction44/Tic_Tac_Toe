@@ -1,2 +1,2 @@
 # Tic_Tac_Toe
-designing Tic Toe Game using HTML,CSS And JS
+designing Tic Tac Toe Game using HTML,CSS And JS
